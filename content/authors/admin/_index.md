@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include privacy, security and artificial intelligence.
 
 interests:
-- Privacy and Security Research
+- Privacy and Security
 - Natural Language Processing
 - Representation Learning
 - Artificial Intelligence
