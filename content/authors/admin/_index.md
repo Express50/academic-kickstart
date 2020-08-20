@@ -65,4 +65,4 @@ email: ""
 # - Visitors
 ---
 
-I am an MScAC student at the University of Toronto, studying natural language processing and private data analysis. My research interests are in secure and privacy-preserving algorithms for working with data and general methods for representing abstract data as vectors.
+I am an MScAC student at the University of Toronto, studying natural language processing and private data analysis. My research interests are in secure and privacy-preserving algorithms for working with data and general methods for representing real-world data as abstract vectors.
