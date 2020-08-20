@@ -1,14 +1,14 @@
 ---
-title: COVID-19 Surge Planning
-summary: R Shiny application for COVID-19 healthcare surge model for GTA area hospitals
+title: omgee
+summary: R package for estimating multinomial probabilities for clustered data using generalized estimation equations
 tags:
-- Mathematical Modelling
 - R
-- Shiny
-date: "2020-07-22"
+- Overdispersion
+- GEE
+date: "2019-05-06"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://mishra-lab.shinyapps.io/covid-GTA-surge-planning/"
+external_link: "https://github.com/Express50/omgee"
 
 # image:
 #   caption: Photo by rawpixel on Unsplash

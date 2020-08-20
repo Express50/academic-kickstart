@@ -1,0 +1,21 @@
+\documentclass[preview,border={-60pt 10pt -60pt -2pt},convert]{standalone}
+\usepackage{amsmath}
+\usepackage{physics}
+\usepackage{mathtools}
+\begin{document}
+	\begin{align*}
+%		&\left .
+		\begin{rcases}%{ll}
+			&\vb*{Z}_{i, a} \mid \vb*{P}_{i, a} \sim \textrm{Multinomial}(n_{i, a}; \vb*{P}_{i, a}) \\
+			&E(\vb*{P}_{i, a}) = \vb*{\pi}_a \\
+			&\mathrm{Var}(\vb*{P}_{i, a}) = \rho^2_a [\mathrm{diag}(\vb*{\pi}_a) - \vb*{\pi}_a \vb*{\pi}_a'] \\
+		\end{rcases} &\;OM \\[7pt]
+%		\right \} OM \\
+%		&\left . 
+		\begin{rcases}%{ll}
+			&\sum_{i=1}^K \vb{D}_i' \vb{V}_i^{-1} \vb{R}_i = 0 \\
+			&\sum_{i=1}^K \vb{R}_i \vb{V}_i^{-1} \vb{R}_i = mK
+		\end{rcases} &\;GEE
+%		\right \} GEE
+	\end{align*}
+\end{document}

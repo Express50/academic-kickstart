@@ -1,0 +1,260 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.2)  20 AUG 2020 18:31
+entering extended mode
+**./featured_graphic.tex
+(featured_graphic.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-07-17>
+("C:\Program Files\MiKTeX\tex/latex/standalone\standalone.cls"
+Document Class: standalone 2018/03/26 v1.3a Class to compile TeX sub-files stan
+dalone
+("C:\Program Files\MiKTeX\tex/latex/tools\shellesc.sty"
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Unrestricted shell escape enabled on input line 75.
+)
+("C:\Program Files\MiKTeX\tex/generic/iftex\ifluatex.sty"
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+
+("C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+("C:\Program Files\MiKTeX\tex/latex/xkeyval\xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Program Files\MiKTeX\tex/generic/xkeyval\xkeyval.tex"
+("C:\Program Files\MiKTeX\tex/generic/xkeyval\xkvutils.tex"
+\XKV@toks=\toks15
+\XKV@tempa@toks=\toks16
+
+("C:\Program Files\MiKTeX\tex/generic/xkeyval\keyval.tex"))
+\XKV@depth=\count168
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\sa@internal=\count169
+\c@sapage=\count170
+
+("C:\Program Files\MiKTeX\tex/latex/standalone\standalone.cfg"
+File: standalone.cfg 2018/03/26 v1.3a Default configuration file for 'standalon
+e' class
+)
+("C:\Program Files\MiKTeX\tex/latex/base\article.cls"
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+("C:\Program Files\MiKTeX\tex/latex/base\size10.clo"
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count171
+\c@section=\count172
+\c@subsection=\count173
+\c@subsubsection=\count174
+\c@paragraph=\count175
+\c@subparagraph=\count176
+\c@figure=\count177
+\c@table=\count178
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+("C:\Program Files\MiKTeX\tex/latex/preview\preview.sty"
+Package: preview 2017/04/24 11.91 (AUCTeX/preview-latex)
+
+("C:\Program Files\MiKTeX\tex/generic/luatex85\luatex85.sty"
+Package: luatex85 2016/06/15 v1.4 pdftex aliases for luatex
+)
+("C:\Program Files\MiKTeX\tex/latex/preview\prtightpage.def"
+\PreviewBorder=\dimen135
+)
+\pr@snippet=\count179
+\pr@box=\box45
+\pr@output=\toks17
+)
+runsystem(pdflatex  -shell-escape  -jobname "featured_graphic" "\expandafter\de
+f\csname sa@internal@run\endcsname{1}\input{featured_graphic}")...executed.
+
+\sa@read=\read2
+runsystem(imgconvert -density 300 -units PixelsPerInch featured_graphic.pdf  -q
+uality 90 featured_graphic.png)...executed.
+
+
+
+Class standalone Warning: Conversion unsuccessful!
+(standalone)              There might be something wrong with your
+(standalone)              conversation software or the file permissions!
+
+ ) ) 
+Here is how much of TeX's memory you used:
+ 884 strings out of 481225
+ 13323 string characters out of 2915881
+ 249567 words of memory out of 3000000
+ 16507 multiletter control sequences out of 15000+200000
+ 535088 words of font info for 29 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 36i,1n,60p,218b,53s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+No pages of output.
+PDF statistics:
+ 0 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
+declaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count185
+\c@MaxMatrixCols=\count186
+\dotsspace@=\muskip16
+\c@parentequation=\count187
+\dspbrk@lvl=\count188
+\tag@help=\toks19
+\row@=\count189
+\column@=\count190
+\maxfields@=\count191
+\andhelp@=\toks20
+\eqnshift@=\dimen139
+\alignsep@=\dimen140
+\tagshift@=\dimen141
+\tagwidth@=\dimen142
+\totwidth@=\dimen143
+\lineht@=\dimen144
+\@envbody=\toks21
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+("C:\Program Files\MiKTeX\tex/latex/physics\physics.sty"
+Package: physics 
+
+("C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse.sty"
+("C:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty"
+Package: expl3 2020-07-17 L3 programming layer (loader) 
+
+("C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdfmode.def"
+File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count192
+\l__pdf_internal_box=\box48
+))
+Package: xparse 2020-05-15 L3 Experimental document command parser
+
+("C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse-generic.tex"
+\l__xparse_current_arg_int=\count193
+\g__xparse_grabber_int=\count194
+\l__xparse_m_args_int=\count195
+\l__xparse_v_nesting_int=\count196
+)))
+("C:\Program Files\MiKTeX\tex/latex/mathtools\mathtools.sty"
+Package: mathtools 2020/03/24 v1.24 mathematical typesetting tools
+
+("C:\Program Files\MiKTeX\tex/latex/tools\calc.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count197
+\calc@Bcount=\count198
+\calc@Adimen=\dimen145
+\calc@Bdimen=\dimen146
+\calc@Askip=\skip52
+\calc@Bskip=\skip53
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count199
+\calc@Cskip=\skip54
+)
+("C:\Program Files\MiKTeX\tex/latex/mathtools\mhsetup.sty"
+Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
+\g_MT_multlinerow_int=\count266
+\l_MT_multwidth_dim=\dimen147
+\origjot=\skip55
+\l_MT_shortvdotswithinadjustabove_dim=\dimen148
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen149
+\l_MT_above_intertext_sep=\dimen150
+\l_MT_below_intertext_sep=\dimen151
+\l_MT_above_shortintertext_sep=\dimen152
+\l_MT_below_shortintertext_sep=\dimen153
+\xmathstrut@box=\box49
+\xmathstrut@dim=\dimen154
+)
+(featured_graphic.aux)
+\openout1 = `featured_graphic.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+
+Preview: Fontsize 10pt
+Preview: PDFoutput 1
+("C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+
+("C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count267
+\scratchdimen=\dimen155
+\scratchbox=\box50
+\nofMPsegments=\count268
+\nofMParguments=\count269
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count270
+\MPscratchDim=\dimen156
+\MPnumerator=\count271
+\makeMPintoPDFobject=\count272
+\everyMPtoPDFconversion=\toks24
+))) ("C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+\Gin@req@height=\dimen157
+\Gin@req@width=\dimen158
+)
+Preview: Tightpage 3932160 -655360 -3932160 -131072
+[1{C:/Users/David.LAPTOP-T1D030HP/AppData/Local/MiKTeX/pdftex/config/pdftex.map
+}] (featured_graphic.aux) ) 
+Here is how much of TeX's memory you used:
+ 3925 strings out of 481225
+ 60943 string characters out of 2915881
+ 314383 words of memory out of 3000000
+ 19465 multiletter control sequences out of 15000+200000
+ 538299 words of font info for 40 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 46i,20n,62p,401b,288s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.p
+fb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Progr
+am Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmmib10.pfb><C:/Program Files/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy
+10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on featured_graphic.pdf (1 page, 83239 bytes).
+PDF statistics:
+ 42 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
