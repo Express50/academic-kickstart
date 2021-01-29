@@ -18,16 +18,31 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Academic Parnerships Intern"
+  company = "Vector Institute"
+  location = "Toronto, ON"
+  date_start = "2020-09-01"
+
+[[experience]]
+  title = "Teaching Assistant"
+  company = "University of Toronto"
+  location = "Toronto, ON"
+  date_start = "2020-09-01"
+  date_end = "2020-12-31"
+
+[[experience]]
   title = "Research Affiliate"
   company = "Center for Urban Science and Progress, New York University"
   location = "Brooklyn, NY"
   date_start = "2019-10-01"
+  date_end = "2020-08-31"
 
 [[experience]]
   title = "Research Coordinator"
   company = "MAP Centre for Urban Health Solutions, St. Michael's Hospital"
   location = "Toronto, ON"
   date_start = "2019-10-01"
+  date_end = "2020-08-31"
 
 [[experience]]
   title = "Research Affiliate"

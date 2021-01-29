@@ -11,9 +11,11 @@ authors:
 - Jesse Knight
 - Kevin Gough
 - Sharmistha Mishra
-tags: []
+tags:
+- '"Computer Science - Artificial Intelligence"'
+- '"Mathematics - Optimization and Control"'
 categories: []
-date: '2019-01-01'
+date: '2019-10-18'
 lastmod: 2020-08-20T19:05:25-04:00
 featured: false
 draft: false
@@ -32,9 +34,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-08-20T23:05:24.937965Z'
+publishDate: '2021-01-29T16:38:50.497653Z'
 publication_types:
-- 3
+- 2
 abstract: Scheduling of personnel in a hospital environment is vital to improving
   the service provided to patients and balancing the workload assigned to clinicians.
   Many approaches have been tried and successfully applied to generate efficient schedules
@@ -51,6 +53,6 @@ abstract: Scheduling of personnel in a hospital environment is vital to improvin
   We used simulated data to examine the sensitivity of the runtime of our linear program
   for various parameters and observed reassuring results, signifying the practicality
   and generalizability of our approach in different real-world scenarios.
-publication: '*arXiv:1910.08526*'
+publication: ''
 url_pdf: http://arxiv.org/abs/1910.08526
 ---

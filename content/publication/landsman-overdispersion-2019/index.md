@@ -6,10 +6,10 @@ title: 'Overdispersion models for correlated multinomial data: Applications to b
 subtitle: ''
 summary: ''
 authors:
-- Victoria Landsman
-- David Landsman
-- Chin-Shang Li
-- Heejung Bang
+- V. Landsman
+- D. Landsman
+- C. S. Li
+- H. Bang
 tags:
 - '"blinding index"'
 - '"Dirichlet-multinomial"'
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-08-20T23:05:25.403607Z'
+publishDate: '2021-01-29T16:38:50.116344Z'
 publication_types:
 - 2
 abstract: Overdispersion models have been extensively studied for correlated normal
