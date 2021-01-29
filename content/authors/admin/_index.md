@@ -18,13 +18,12 @@ organizations:
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include privacy, security and artificial intelligence.
+bio: 
 
 interests:
 - Privacy and Security
 - Natural Language Processing
 - Representation Learning
-- Artificial Intelligence
 
 education:
   courses:
@@ -65,4 +64,6 @@ email: ""
 # - Visitors
 ---
 
-I am an MScAC student at the University of Toronto, studying natural language processing and private data analysis. My research interests are in secure and privacy-preserving algorithms for working with data and general methods for representing real-world data as abstract vectors.
+I am an MScAC student at the University of Toronto, studying natural language processing, private data analysis and computer security. 
+My research interests are in developing privacy-preserving algorithms for data analysis and general methods for representing complex real-world data
+as vectors.
