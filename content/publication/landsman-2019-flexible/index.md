@@ -1,30 +1,20 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: The Application of Natural Language Processing for Extracting Tuberculosis
-  Variables from Unstructured Dictations
+title: A flexible integer linear programming formulation for scheduling clinician
+  on-call service in hospitals
 subtitle: ''
 summary: ''
 authors:
 - David Landsman
-- Ahmed Abdelbasit
-- Christine Wang
-- Michael Guerzhoy
-- Ujash Joshi
-- Shaun Mathew
-- Chloe Pou-Prom
-- David Dai
-- Victoria Pequegnat
-- Joshua Murray
-- Kamalprit Chokar
-- Michaelia Banning
-- Muhammad Mamdani
+- Huiting Ma
+- Jesse Knight
+- Kevin Gough
 - Sharmistha Mishra
-- Jane Batt
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2020-08-20T19:05:24-04:00
+date: '2019-01-01'
+lastmod: 2022-01-15T17:06:10-05:00
 featured: false
 draft: false
 
@@ -42,10 +32,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-08-20T23:05:24.333541Z'
+publishDate: '2022-01-15T22:06:09.657841Z'
 publication_types:
-- 1
+- 2
 abstract: ''
-publication: '*Respirology Research Forum 2020*'
-url_pdf: https://respirologyresearch.com/research_document/poster-27-david-landsman-ahmed-abdelbasit/
+publication: '*arXiv preprint arXiv:1910.08526*'
 ---
