@@ -10,12 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: University of Toronto MScAC Student
+role: Research Scientist
 
 # Organizations/Affiliations
 organizations:
-# - name: Stanford University
-#   url: ""
+- name: Vanguard
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -27,6 +26,9 @@ interests:
 
 education:
   courses:
+  - course: MSc in Applied Computing
+    institution: University of Toronto
+    year: 2021
   - course: BSc in Computer Science
     institution: University of Toronto
     year: 2019
@@ -64,6 +66,6 @@ email: ""
 # - Visitors
 ---
 
-I am an MScAC student at the University of Toronto, studying natural language processing, private data analysis and computer security. 
-My research interests are in developing privacy-preserving algorithms for data analysis and general methods for representing complex real-world data
-as vectors.
+I am a Research Scientist at Vanguard, working in the areas of natural language processing (NLP) and generation.
+I am a graduate of the MScAC program at the University of Toronto, where I studied natural language processing,
+private data analysis and computer security.
